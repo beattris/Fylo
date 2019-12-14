@@ -991,8 +991,10 @@ footer .honours{
        padding-top: 0px;
     }
     #description2{
-        padding: 0 250px;
-        margin-top: -120px;
+        padding-left: 250px;
+        padding-right: 250px;
+        padding-top: 100px;
+        margin-top: -200px;
     }
     #description2 h4{
         font-size: 1.2rem;
